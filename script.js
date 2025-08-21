@@ -1,6 +1,6 @@
 // ==== GitHub Seting ====
 const GITHUB_REPO = "Rafka-Developer/database5";
-const DATA_FILE   = " tokens.json";
+const DATA_FILE   = "tokens.json";
 const GITHUB_TOKEN = "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";
 
 async function getData() {
